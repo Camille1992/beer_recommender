@@ -31,7 +31,7 @@ Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib, Scipy, Math, Stats
 The dataset holds information on 3197 unique beers and 934 different breweries.
 Link to the dataset: https://www.kaggle.com/datasets/ruthgn/beer-profile-and-ratings-data-set
 
-**Description of the least obvious features**
+**Description of the least obvious features:**
 
 **ABV**: Alcohol by volume is used to measure the alcohol content of beer and other alcoholic drinks. They usually fall between 3.0 and 13.0 percent ABV. \
 **IBU**: International Bitterness Units, it’s a scale used to rate the bitterness level.\
